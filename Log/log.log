@@ -1,0 +1,55 @@
+[INFO 2019-11-29 15:16:31]解析yaml, Path:C:\Users\admin\Desktop\API_Automation-master/Params/Yaml/MyTest.yaml
+[INFO 2019-11-29 15:16:32]no coockie
+[INFO 2019-12-16 15:43:14]解析yaml, Path:C:\Users\admin\Desktop\API_Automation-master/Params/Yaml/MyTest.yaml
+[INFO 2019-12-16 15:43:15]no coockie
+[ERROR 2019-12-16 15:43:15]Response body msg != expected_msg, expected_msg is 600005, body_msg is 600000
+[INFO 2019-12-16 15:44:16]解析yaml, Path:C:\Users\admin\Desktop\API_Automation-master/Params/Yaml/MyTest.yaml
+[INFO 2019-12-16 15:44:16]no coockie
+[ERROR 2019-12-16 15:44:16]Response body msg != expected_msg, expected_msg is 600005, body_msg is 600000
+[INFO 2019-12-16 15:46:41]解析yaml, Path:C:\Users\admin\Desktop\API_Automation-master/Params/Yaml/MyTest.yaml
+[INFO 2019-12-16 15:46:41]no coockie
+[ERROR 2019-12-16 15:46:41]Response body msg != expected_msg, expected_msg is 600005, body_msg is 600000
+[INFO 2019-12-16 15:59:30]解析yaml, Path:C:\Users\admin\Desktop\API_Automation-master/Params/Yaml/MyTest.yaml
+[INFO 2019-12-16 15:59:30]no coockie
+[INFO 2019-12-16 16:00:04]解析yaml, Path:C:\Users\admin\Desktop\API_Automation-master/Params/Yaml/MyTest.yaml
+[INFO 2019-12-16 16:00:05]no coockie
+[INFO 2019-12-16 16:00:23]解析yaml, Path:C:\Users\admin\Desktop\API_Automation-master/Params/Yaml/MyTest.yaml
+[INFO 2019-12-16 16:00:23]no coockie
+[INFO 2019-12-16 16:06:21]解析yaml, Path:C:\Users\admin\Desktop\API_Automation-master/Params/Yaml/MyTest.yaml
+[INFO 2019-12-16 16:06:21]no coockie
+[INFO 2019-12-16 16:07:34]解析yaml, Path:C:\Users\admin\Desktop\API_Automation-master/Params/Yaml/MyTest.yaml
+[INFO 2019-12-16 16:07:54]解析yaml, Path:C:\Users\admin\Desktop\API_Automation-master/Params/Yaml/MyTest.yaml
+[INFO 2019-12-16 16:08:04]解析yaml, Path:C:\Users\admin\Desktop\API_Automation-master/Params/Yaml/MyTest.yaml
+[INFO 2019-12-16 16:08:22]解析yaml, Path:C:\Users\admin\Desktop\API_Automation-master/Params/Yaml/MyTest.yaml
+[INFO 2019-12-16 16:08:33]解析yaml, Path:C:\Users\admin\Desktop\API_Automation-master/Params/Yaml/MyTest.yaml
+[INFO 2019-12-16 16:08:41]解析yaml, Path:C:\Users\admin\Desktop\API_Automation-master/Params/Yaml/MyTest.yaml
+[INFO 2019-12-16 16:09:01]解析yaml, Path:C:\Users\admin\Desktop\API_Automation-master/Params/Yaml/MyTest.yaml
+[INFO 2019-12-16 16:09:54]解析yaml, Path:C:\Users\admin\Desktop\API_Automation-master/Params/Yaml/MyTest.yaml
+[INFO 2019-12-16 16:44:34]解析yaml, Path:C:\Users\admin\Desktop\API_Automation-master/Params/Yaml/MyTest.yaml
+[INFO 2019-12-18 16:37:55]解析yaml, Path:C:\Users\admin\Desktop\API_Automation-master/Params/Yaml/MyTest.yaml
+[ERROR 2020-01-10 11:02:54]get cookies error, please checkout!!!
+[ERROR 2020-01-10 11:04:35]get cookies error, please checkout!!!
+[ERROR 2020-01-10 11:04:50]get cookies error, please checkout!!!
+[ERROR 2020-01-10 11:05:40]get cookies error, please checkout!!!
+[ERROR 2020-01-10 11:05:46]get cookies error, please checkout!!!
+[ERROR 2020-01-10 11:06:18]get cookies error, please checkout!!!
+[ERROR 2020-01-10 11:07:29]get cookies error, please checkout!!!
+[ERROR 2020-01-10 11:09:12]get cookies error, please checkout!!!
+[ERROR 2020-01-10 11:09:29]get cookies error, please checkout!!!
+[INFO 2020-01-10 11:16:33]解析yaml, Path:C:\Users\admin\Desktop\API_Automation-master/Params/Yaml/MyTest.yaml
+[INFO 2020-01-10 11:16:53]解析yaml, Path:C:\Users\admin\Desktop\API_Automation-master/Params/Yaml/MyTest.yaml
+[INFO 2020-01-10 16:15:11]no coockie
+[INFO 2020-01-10 16:21:33]no coockie
+[INFO 2020-01-10 17:20:17]解析yaml, Path:C:\Users\admin\Desktop\API_Automation-master/Params/Yaml/MyTest.yaml
+[INFO 2020-01-10 17:21:17]解析yaml, Path:C:\Users\admin\Desktop\API_Automation-master/Params/Yaml/MyTest.yaml
+[INFO 2020-01-10 17:21:17]no coockie
+[INFO 2020-01-10 17:21:18]no coockie
+[INFO 2020-01-10 17:21:45]解析yaml, Path:C:\Users\admin\Desktop\API_Automation-master/Params/Yaml/MyTest.yaml
+[INFO 2020-01-10 17:21:46]no coockie
+[INFO 2020-01-10 17:21:46]no coockie
+[INFO 2020-01-10 17:22:05]解析yaml, Path:C:\Users\admin\Desktop\API_Automation-master/Params/Yaml/MyTest.yaml
+[INFO 2020-01-10 17:22:06]no coockie
+[INFO 2020-01-10 17:22:06]no coockie
+[INFO 2020-01-10 17:23:51]解析yaml, Path:C:\Users\admin\Desktop\API_Automation-master/Params/Yaml/MyTest.yaml
+[INFO 2020-01-10 17:23:52]no coockie
+[INFO 2020-01-10 17:23:52]no coockie

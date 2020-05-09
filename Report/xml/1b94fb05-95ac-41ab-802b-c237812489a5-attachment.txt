@@ -1,0 +1,3 @@
+ERROR    root:Log.py:82 [ERROR 2019-11-21 16:59:00]get cookies error, please checkout!!!
+DEBUG    urllib3.connectionpool:connectionpool.py:205 Starting new HTTP connection (1): 10.25.246.28:18089
+DEBUG    urllib3.connectionpool:connectionpool.py:393 http://10.25.246.28:18089 "GET /MAC/activity3/model/v2.0/queryMyPrizeList?activityId=MAC_LHX_KF_DRHLC&activityType=1 HTTP/1.1" 200 None
