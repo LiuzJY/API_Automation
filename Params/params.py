@@ -67,6 +67,7 @@ class MyTest:
 
 if __name__ == '__main__':
     # print("###########" + str(get_parameter('MyTest')))
+    print(MyTest().params)
     print(MyTest().data[0]['activityId'])
-    # print(MyTest().url)
-    # print(MyTest().header)
+    print(MyTest().url)
+    print(MyTest().header)

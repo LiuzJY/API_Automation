@@ -3,15 +3,15 @@ MyTest:
   dec: "查询奖品信息"
   parameters:
     -
-      url: /MAC/activity3/model/v2.0/queryMyPrizeList
+      url: /MAC/*****/*****/***/*****
       data: {
-              "activityId":"MAC_LHX_KF_DRHLC",
-              "activityType":"1",
+              "****":"****",
+              "***":"1",
             }
       header: {
-                "channel":"014000D",
-                "uid":"140ff56a-9173-402e-a960-9bdd8013086b",
-                "msisdn":"15099613892",
-                "version":"5.0.1",
-                "ua":"Android_migu",
+                "****":"********",
+                "***":"140ff56a-****-402e-a960-9bdd8013086b",
+                "**":"150****3892",
+                "*":"5.0.1",
+                "*****":"Android_migu",
               }

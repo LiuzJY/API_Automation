@@ -225,22 +225,3 @@ class Request:
         response_dicts['time_total'] = time_total
 
         return response_dicts
-
-
-if __name__ == '__main__':
-    myurl = "http://10.25.246.28:18089/MAC/activity3/model/v2.0/queryMyPrizeList"
-    parms = {
-        "activityId": "MAC_LHX_KF_DRHLC",
-        "activityType": "1",
-    }
-    myheader = {
-        "channel": "014000D",
-        "uid": "140ff56a-9173-402e-a960-9bdd8013086b",
-        "msisdn": "15099613892",
-        "version": "5.0.1",
-        "ua": "Android_migu",
-    }
-
-    res = Request(conftest.action)
-    myresponse = res.post_request(url=myurl, data=parms, header=myheader)
-    print(myresponse)

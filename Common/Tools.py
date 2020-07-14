@@ -1,6 +1,5 @@
 from Common import Request
 import datetime
-from Common import Mysql
 
 
 def acttime():
@@ -21,26 +20,15 @@ def refresh():
     """
     刷新配置项
     """
-    url = "http://10.25.246.28:18089/MACMS_SERVICE/flush/config"
+    url = "http://**.***.**.**:18089/*******/flush/config"
 
-    params = {"address": "10.25.246.28:3099",
-              "referer": "http://10.25.246.34:8080/ms-admin/manage/index"}
+    params = {"address": "**.***.**.**:3099",
+              "referer": "http://**.***.**.**:8080/*************/manage/index"}
 
-    headers = {"Host": "10.25.246.28:18089",
-               "Origin": "http://10.25.246.28:18089",
-               "Referer": "http://10.25.246.28:18089/MACMS/flushList?type=config"}
+    headers = {"Host": "**.***.**.**:18089",
+               "Origin": "http://**.***.**.**:18089",
+               "Referer": "http://**.***.**.**:18089/*****/flushList?type=config"}
 
     request = Request.Request("activity")
     rsp = request.post_request(url=url, data=params, header=headers)
     print(rsp)
-
-
-if __name__ == '__main__':
-    # refresh()
-    # outtime()
-    mysql = Mysql.Mysql()
-    time = acttime()
-    sql = "update t_migu_mac_config set `value` = '%s' where `key` = 'activity.MAC_SKH_KF_MGXZPMJZ.show.validperiod'" % time[1]
-    mysql.update(sql)
-
-    print(sql)

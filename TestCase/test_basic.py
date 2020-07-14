@@ -24,7 +24,7 @@ class TestBasic:
         time = Tools.acttime()
         outtime = time[0]
         print(outtime)
-        sql = "update t_migu_mac_config set `value` = '%s' where `key` = 'activity.MAC_SKH_KF_MGXZPMJZ.show.validperiod'" % outtime
+        sql = "update 111 set `value` = '%s' where `key` = '111'" % outtime
         mysql.update(sql)  # 更改活动时间
         Tools.refresh()  # 刷新配置项
 
